@@ -7,7 +7,7 @@
 # A function to print a series of names.
 # It does not have any parameters
 def printNames():
-  for myName in ["Chris", "Jamie", "Pat", "Taylor" ]:
+  for myName in ["Nazir", "Robert" ]:
         print ( myName )
 
 
